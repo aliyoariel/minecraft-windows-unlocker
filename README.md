@@ -12,7 +12,6 @@ Minecraft Windows Unlocker adalah alat yang dirancang untuk membuka fitur terten
 
 - Sistem Operasi: Windows 10 atau lebih baru
 - RAM: Minimal 4GB
-- Minecraft versi terbaru
 
 ## Cara Instalasi
 
@@ -28,12 +27,7 @@ Minecraft Windows Unlocker adalah alat yang dirancang untuk membuka fitur terten
    ```bash
    ./run.cmd
    ```
-
-## Cara Penggunaan
-
-1. Jalankan aplikasi unlocker melalui file `run.cmd`.
-2. Ikuti instruksi di layar untuk memilih fitur yang ingin dibuka.
-3. Restart Minecraft untuk melihat perubahan.
+4. Restart Minecraft.
 
 ## Kontribusi
 
